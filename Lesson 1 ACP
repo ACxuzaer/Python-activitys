@@ -1,0 +1,14 @@
+print("The birthday boy Alex")
+print("here is the gifts he got form his friends")
+
+x = "Toy train"
+y = "Brand new i phone"
+z = "football boots"
+a = "T shirt"
+b = "football"
+
+print(x) 
+print(y)
+print(z)
+print(a)
+print(b)
