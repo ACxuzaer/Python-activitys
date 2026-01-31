@@ -1,0 +1,9 @@
+print("Hello, world or whatever !!")
+
+print("My name is Jackson..")
+
+print("I love to paly Football also badminton as well")
+
+print("My favourite Subject is Math for the time being")
+
+print("the result of 10 + 1 is:", 11)
